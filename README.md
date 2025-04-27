@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hamdikhater68@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nnpBCelEkhotSPqJv1Oa9Dd1iCXnVTbX/view?usp=sharing](https://drive.google.com/file/d/1nnpBCelEkhotSPqJv1Oa9Dd1iCXnVTbX/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1nnpBCelEkhotSPqJv1Oa9Dd1iCXnVTbX/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaatteerr&show_icons=true&locale=en&layout=compact" alt="khaatteerr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khaatteerr&show_icons=true&locale=en" alt="khaatteerr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=khaatteerr&&show_icons=true&theme=dark" alt="khaatteerr" /></p>
