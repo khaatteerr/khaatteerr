@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hamdikhater68@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1nnpBCelEkhotSPqJv1Oa9Dd1iCXnVTbX/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1mAGAsxK0QkCbBFiLom5TXXj-PKvdGcUd/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
