@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Super Survey**
 
-- 🌱 I’m currently learning **The Chance Cource, Ktor, Android Development**
+- 🌱 I’m currently learning **Android Development**
 
 - 💬 Ask me about **Kotlin**
 
